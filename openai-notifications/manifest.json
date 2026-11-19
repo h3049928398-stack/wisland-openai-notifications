@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "files": {
+    "wisland/app.py": {
+      "accepted": [
+        "50d31f285848d5c28e06864f7d919bb7b015f65cef0f4a24061b3003c4ffbb73"
+      ],
+      "release": "717d9fd9456074ee82245cfb91532b64c6e3010ffb8f5dc8c8bff2be26fa4fac"
+    },
+    "wisland/services/notify.py": {
+      "accepted": [
+        "be998fcbd5c0e235361cc68682c717d7779f015ec6d9f8cdacfba5dec7ff69c4"
+      ],
+      "release": "24d0aa11f9eb8bf83026f835b819dbf1f0934bddbdfdd3cf984d982a7a3954bd"
+    },
+    "wisland/services/openai_notifications.py": {
+      "accepted": [
+        null
+      ],
+      "release": "934b3ef8a1c8f35653493f2c603ad2ea31e1605f5c888c09d3bad83c216662ad"
+    },
+    "wisland/ui/compact.py": {
+      "accepted": [
+        "f2b77ee69982dcb1e4c6f4fe23c5b0ccb288a566c5340645fd57b2cd7629a60c"
+      ],
+      "release": "20b31392e69b2b81bb9734715119e28b943031f3d1faba4cfa482877338d2a14"
+    },
+    "wisland/ui/pages/home.py": {
+      "accepted": [
+        "fb780f0d8785849cbc05745ee33e707f92a8571c67cc7573487ad04e113b12dc"
+      ],
+      "release": "f6bb9dbf831c2432384528d77b190c7b83944b84ab86df5841d253c8a8e4be4a"
+    },
+    "wisland/ui/theme.py": {
+      "accepted": [
+        "4eb937a1054839fe63f7f752955d05b17f8a059f87e6c46bf44c8f3a7aab7c1a"
+      ],
+      "release": "94bd1d1ad89c26a3eb5c5d6702d29d980a7489d67219ba957bf52a3b8ce7a834"
+    }
+  }
+}
